@@ -1,0 +1,10 @@
+INFO Application started
+ERROR Database connection failed
+INFO User logged in
+ERROR Timeout occurred
+ERROR Disk full
+
+ERROR Database connection crashed
+INFO User logg-out
+error Memory full
+
