@@ -4,3 +4,8 @@ ERROR Disk full
 ERROR Database connection crashed
 error Memory full
 ERROR MISSED
+ERROR Database connection failed
+ERROR Timeout occurred
+ERROR Disk full
+ERROR Database connection crashed
+ERROR MISSED
