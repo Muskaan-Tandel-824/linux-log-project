@@ -10,10 +10,10 @@ if [ ! -f "$LOG_FILE" ]; then
 fi
 
 #count errors
-ERROR_COUNT=$(grep -c "ERROR" "$LOG_FILE")
+ERROR_COUNT=$(grep -c -i  "ERROR" "$LOG_FILE")
 
 #Generate error report
-grep "ERROR" $LOG_FILE >> "$REPORT_FILE"
+grep -E  "error|failed" $LOG_FILE >> "$REPORT_FILE"
 
 echo "Log analysis Completed"
 echo "Total Errors found: $ERROR_COUNT"

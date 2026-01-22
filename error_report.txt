@@ -9,3 +9,15 @@ ERROR Timeout occurred
 ERROR Disk full
 ERROR Database connection crashed
 ERROR MISSED
+Jan 22 11:17:24 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[60347]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 13:35:26 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67103]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 14:38:39 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71314]: error: kex_exchange_identification: client sent invalid protocol identifier ""
+Jan 22 14:43:43 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71599]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"
+Jan 22 11:17:24 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[60347]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 13:35:26 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67103]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 14:38:39 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71314]: error: kex_exchange_identification: client sent invalid protocol identifier ""
+Jan 22 14:43:43 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71599]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"
+Jan 22 11:17:24 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[60347]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 13:35:26 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67103]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 14:38:39 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71314]: error: kex_exchange_identification: client sent invalid protocol identifier ""
+Jan 22 14:43:43 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71599]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"

@@ -1,11 +1,15 @@
-INFO Application started
-ERROR Database connection failed
-INFO User logged in
-ERROR Timeout occurred
-ERROR Disk full
-
-ERROR Database connection crashed
-INFO User logg-out
-error Memory full
-
-ERROR MISSED
+Jan 22 11:17:24 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[60347]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 11:17:24 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[60347]: Connection closed by 45.91.64.7 port 60023
+Jan 22 13:35:26 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67103]: error: kex_exchange_identification: Connection closed by remote host
+Jan 22 13:35:26 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67103]: Connection closed by 45.91.64.7 port 60023
+Jan 22 13:48:20 ip-172-31-19-3.ap-southeast-2.compute.internal ec2-instance-connect[67835]: Providing ssh key from EC2 Instance Connect with fingerprint: SHA256:yZcBvALyLZTxV+xCEGxEBgQ038Sia111DZSPWO8mN4Q, request-id: 5b45f4da-84e6-4f8d-b3e9-d86b1f4657a0, for IAM principal: arn:aws:iam::330492732980:user/muskan
+Jan 22 13:48:21 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67702]: Accepted publickey for ec2-user from 13.239.158.4 port 57361 ssh2: ED25519 SHA256:yZcBvALyLZTxV+xCEGxEBgQ038Sia111DZSPWO8mN4Q
+Jan 22 13:48:21 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[67702]: pam_unix(sshd:session): session opened for user ec2-user(uid=1000) by (uid=0)
+Jan 22 14:20:03 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[69744]: Accepted publickey for ec2-user from 13.239.158.4 port 29856 ssh2: ED25519 SHA256:3d8P7pJWxprX9mHq0vOQSbYL1J3YSQYS8oXYLYWCW/I
+Jan 22 14:20:03 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[69744]: pam_unix(sshd:session): session opened for user ec2-user(uid=1000) by (uid=0)
+Jan 22 14:35:48 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[70822]: Accepted publickey for ec2-user from 13.239.158.5 port 34077 ssh2: ED25519 SHA256:FSg2NhetQSt4WVvVt3YkudeLMRwqYD/jKSpRVEdv1uA
+Jan 22 14:35:48 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[70822]: pam_unix(sshd:session): session opened for user ec2-user(uid=1000) by (uid=0)
+Jan 22 14:38:39 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71314]: error: kex_exchange_identification: client sent invalid protocol identifier ""
+Jan 22 14:38:39 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71314]: banner exchange: Connection from 3.132.23.201 port 53880: invalid format
+Jan 22 14:43:43 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71599]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"
+Jan 22 14:43:43 ip-172-31-19-3.ap-southeast-2.compute.internal sshd[71599]: banner exchange: Connection from 68.183.102.103 port 32988: invalid format
