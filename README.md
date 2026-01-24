@@ -31,3 +31,10 @@ log-project/
 chmod +x analyze_logs.sh
 ./analyze_logs.sh
 
+
+🌐 Connect With Me
+💻 GitHub: https://github.com/Muskaan-Tandel-824
+🔗 LinkedIn: https://www.linkedin.com/in/muskaan-tandel-b59bb8343/
+📧 Email: muskantandel824@gmail.com
+
+
